@@ -1,2 +1,2 @@
-# django-social-clone-project
-A simple social network clone build using django
+# Gazipur Buzz
+A simple social network build using django
